@@ -34,7 +34,6 @@ tag: 技术
 好了，接下来转到[feed43](https://feed43.com/)中去，点击[`Create your first RSS feed`](https://feed43.com/feed.html?action=new)，在`Step 1`下面的地址栏内填上我们粘贴过来的连接，`Encoding`可以不用填，接下来点击`Reload`。
 
 ![step 1-1](https://upload-images.jianshu.io/upload_images/4018124-419b4ca39bbac3ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 点击`Reload`后，下面的`Page Source`就会出现网页的html source代码，看着确实让人头疼，但是当我们翻阅就会发现一些有意思的东西，看下面的截图就发现，我们在代码中找到了通知的信息，每条通知对应的代码好像都是一样的，仔细看的话就能发现一些规律，其中有每个通知的`链接`、`标题`和`日期`，每条通知都是以`</div></div>`结尾，接下来就很简单了。
 
 ![Step 1-2](https://upload-images.jianshu.io/upload_images/4018124-6c03b9e5d896d3d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
