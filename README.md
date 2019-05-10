@@ -1,3 +1,4 @@
 # vpromisever.github.io
-vpromise's blog! keep making magic!
+*vpromise's blog! keep making magic!*
+
 [blog](https://vpromisever.github.io/)
