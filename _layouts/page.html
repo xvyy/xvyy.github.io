@@ -1,17 +1,14 @@
-<!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
+<article class="c-article">
+  <header class="c-header c-article__header">
+    <div class="u-container">
+      <h1 class="c-header__title">{{ page.title }}</h1>
+    </div>
+  </header>
 
-{% include head.html %}
-
-<body>
-
-    {% include header.html %} {{ content }} {% include footer.html %}
-
-</body>
-
-</html>
+  <div class="c-article__main">
+    {{ content }}
+  </div>
+</article>
