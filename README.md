@@ -1,4 +1,4 @@
-# material-jekyll-theme
+# vpromise's blog
 
 [Demo](http://alexcarpenter.github.io/material-jekyll-theme)
 
