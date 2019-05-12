@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-permalink: /books/
+permalink: /about/
 ---
 
 * content
