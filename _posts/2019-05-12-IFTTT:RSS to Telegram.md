@@ -44,7 +44,7 @@ tag: RSS
 
 ![Step 2-1](https://upload-images.jianshu.io/upload_images/4018124-ffb091245aacfcfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-我们需要做的就是将代码中的信息提取出来，将特定的信息替换一下，将代码变成对应的rules，开始弄吧，对于代码中的特定信息`链接`、`标题`和`日期`全部替换为`(%)`，然后在每行后面添加`{*}`，是不是很简单，操作完成后，代码就变成下面这样了。
+我们需要做的就是将代码中的信息提取出来，将特定的信息替换一下，将代码变成对应的rules，开始弄吧，对于代码中的特定信息`链接`、`标题`和`日期`全部替换为`(%)`<sup>[1]</sup>，然后在每行后面添加`{*}`，是不是很简单，操作完成后，代码就变成下面这样了。
 
 ![Step 2-2](https://upload-images.jianshu.io/upload_images/4018124-ee9fd8162b1663c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -82,6 +82,10 @@ IFTTT也可选接收信息提醒，这样RSS源消息有更新，IFTTT和Telegra
 RSSHub给我们提供了很多RSS订阅源，我们可以去网站上找自己需要的，例如我就用RSSHub提供的订阅源推送bilibili up主更新
 ## 2.官方RSS源
 很多新闻类网站都提供了RSS源，例如我就订阅了少数派的RSS[https://sspai.com/feed](https://sspai.com/feed)，其他的源网站可以自己找找看
+
+---
+[1] ()应为{}，下同
+
 
 ---
 ```
