@@ -1,4 +1,18 @@
-*通过IFTTT将RSS源信息推送到Telegram，获取各种信息更新，同时通过Feed43将不支持RSS订阅的网站生成RSS订阅源，及时获取教务通知等各种信息*
+---
+layout: post
+title: IFTTT:RSS to Telegram
+date:   2019-05-12 13:08:00 +0800
+categories: Tech
+tag: RSS
+---
+
+
+
+
+
+
+
+通过IFTTT将RSS源信息推送到Telegram，获取各种信息更新，同时通过Feed43将不支持RSS订阅的网站生成RSS订阅源，及时获取教务通知等各种信息*
 
 ---
 
