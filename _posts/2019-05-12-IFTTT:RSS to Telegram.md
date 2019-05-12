@@ -48,13 +48,13 @@ tag: RSS
 
 ![Step 2-2](https://upload-images.jianshu.io/upload_images/4018124-ee9fd8162b1663c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-点击`Extract`，就能看到令人兴奋的事情了，我们看到在下面的框中出现了多条`Item`，每条Item都对应着一条通知信息，其中`{%1}`=`链接`， `{%2}`=`标题`， `{%3}`=`日期`，记住这个对应关系。
+点击`Extract`，就能看到令人兴奋的事情了，我们看到在下面的框中出现了多条`Item`，每条Item都对应着一条通知信息，其中`{{%1}}`=`链接`， `{{%2}}`=`标题`， `{{%3}}`=`日期`，记住这个对应关系。
 
 ![Step 2-3](https://upload-images.jianshu.io/upload_images/4018124-f981174017ca5cd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### Step 3
 
-接下来到了`Step 3`，`Feed Title` 、`Feed Link` 和 `Feed Description`都自动填好了，你也可以自己修改，但是`Feed Link` 不要去修改它。再看下面，`Item Title Template`填上标题对应的`{%2}`，`Item Link Template`填上链接对应的`{%1}`，至于`Item Content Template`我的代码里并没有通知的具体内容，所以就不填，完成后如下。 
+接下来到了`Step 3`，`Feed Title` 、`Feed Link` 和 `Feed Description`都自动填好了，你也可以自己修改，但是`Feed Link` 不要去修改它。再看下面，`Item Title Template`填上标题对应的`{{%2}}`，`Item Link Template`填上链接对应的`{{%1}}`，至于`Item Content Template`我的代码里并没有通知的具体内容，所以就不填，完成后如下。 
  
 ![Step 3-1](https://upload-images.jianshu.io/upload_images/4018124-4f404ee8fdb4e855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
