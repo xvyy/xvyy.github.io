@@ -5,6 +5,20 @@
 
 *keep making magic!*
 
+## categorie
+- Code
+- Knowledge
+- technology
+- Paper
+- Life
+- ...
+
+## tag
+- deep-learning
+- Ubuntu
+- Markdown
+- ...
+
 
 # LessOrMore
 ====================================
