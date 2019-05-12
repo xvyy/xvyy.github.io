@@ -44,7 +44,7 @@ tag: RSS
 
 ![Step 2-1](https://upload-images.jianshu.io/upload_images/4018124-ffb091245aacfcfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-我们需要做的就是将代码中的信息提取出来，将特定的信息替换一下，将代码变成对应的rules，开始弄吧，对于代码中的特定信息`链接`、`标题`和`日期`全部替换为` {%} `，然后在每行后面添加` {*} `，是不是很简单，操作完成后，代码就变成下面这样了。
+我们需要做的就是将代码中的信息提取出来，将特定的信息替换一下，将代码变成对应的rules，开始弄吧，对于代码中的特定信息`链接`、`标题`和`日期`全部替换为{%}，然后在每行后面添加`{*}`，是不是很简单，操作完成后，代码就变成下面这样了。
 
 ![Step 2-2](https://upload-images.jianshu.io/upload_images/4018124-ee9fd8162b1663c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
