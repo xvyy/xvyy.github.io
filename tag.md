@@ -8,9 +8,9 @@ summary: "tags of blog"
 active: tag
 ---
 
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
+{% for categories in site.tags %}
+  {% assign t = categories | first %}
+  {% assign posts = categories | last %}
 
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
 
