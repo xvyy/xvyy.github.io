@@ -1,3 +1,8 @@
+# vpromise's blog
+<https://vpromisever.github.io/>
+
+[blog](https://vpromisever.github.io)
+
 ## Voyager
 
 Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
