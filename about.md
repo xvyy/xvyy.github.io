@@ -7,16 +7,19 @@ permalink: /about/
 summary: "About this blog"
 active: about
 ---
+# <center>About me</center>
 
-It's vpromsie's blog!
+<center>It's vpromsie's blog!</center>
+<br/>
+<center>Just keep making magic!</center>
 
-Just keep making magic!
+<br/>
 
-[GitHub](https://github.com/vpromisever/)
+- [GitHub](https://github.com/vpromisever/)
 
-[简书](https://www.jianshu.com/u/cf0e68109e57)
+- [简书](https://www.jianshu.com/u/cf0e68109e57)
 
-[mail](vpromisever@gmail.com)
+- mail@`vpromisever@gmail.com`
 
 <br/>
 
