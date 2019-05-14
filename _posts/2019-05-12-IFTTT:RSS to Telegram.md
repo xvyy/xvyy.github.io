@@ -7,18 +7,6 @@ tag: RSS
 ---
 
 
-
-- [一、生成RSS源](#%E4%B8%80%E7%94%9F%E6%88%90rss%E6%BA%90)
-  - [1、原网页](#1%E5%8E%9F%E7%BD%91%E9%A1%B5)
-  - [2、利用Feed43生成RSS](#2%E5%88%A9%E7%94%A8feed43%E7%94%9F%E6%88%90rss)
-    - [Step 1](#step-1)
-    - [Step 2](#step-2)
-    - [Step 3](#step-3)
-- [二、IFTTT通知](#%E4%BA%8Cifttt%E9%80%9A%E7%9F%A5)
-- [三、RSS](#%E4%B8%89rss)
-  - [1.RSSHub](#1rsshub)
-  - [2.官方RSS源](#2%E5%AE%98%E6%96%B9rss%E6%BA%90)
-
 *通过IFTTT将RSS源信息推送到Telegram，获取各种信息更新，同时通过Feed43将不支持RSS订阅的网站生成RSS订阅源，及时获取教务通知等各种信息*
 
 ---
