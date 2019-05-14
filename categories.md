@@ -3,8 +3,8 @@ bg: "tag.jpg"
 layout: page
 permalink: /categories/
 title: "Categories"
-crawlertitle: "All articles"
-summary: "Posts Categories"
+crawlertitle: "Articles Categories"
+summary: "Articles Categories"
 active: categories
 ---
 
