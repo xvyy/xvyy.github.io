@@ -7,6 +7,9 @@ tags: apache2
 comments: 1
 ---
 
+
+测试中文
+
 Let's start with something light in this first post. I am using git for version control in one of my web applications, but the files in .git and .gitignore were accessible. I went searching for a solution and came accross [this](http://stackoverflow.com/questions/6142437/make-git-directory-web-inaccessible#answer-17916515).
 
 The solution is simple, just append the following line in the **ROOT** of your webserver
