@@ -4,7 +4,7 @@ layout: page
 title: "About"
 crawlertitle: "About this site and me"
 permalink: /about/
-summary: "About this blog"
+summary: "about me"
 active: about
 ---
 
@@ -15,6 +15,7 @@ About me
 - vpromise
 
 someone interesting！
+![vpromise](./assets/images/tag.jpg)
 
 
 [Github](https://github.com/vpromisever)
