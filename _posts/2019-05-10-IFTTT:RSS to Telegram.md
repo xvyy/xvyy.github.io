@@ -49,17 +49,17 @@ categories: "tech"
 
 ![Step 2-1](https://upload-images.jianshu.io/upload_images/4018124-ffb091245aacfcfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-我们需要做的就是将代码中的信息提取出来，将特定的信息替换一下，将代码变成对应的rules，开始弄吧，对于代码中的特定信息`链接`、`标题`和`日期`全部替换为`{%}`，然后在每行后面添加`{*}`，是不是很简单，操作完成后，代码就变成下面这样了。
+我们需要做的就是将代码中的信息提取出来，将特定的信息替换一下，将代码变成对应的rules，开始弄吧，对于代码中的特定信息`链接`、`标题`和`日期`全部替换为`(%)`<sup>[1]</sup>，然后在每行后面添加`{*}`，是不是很简单，操作完成后，代码就变成下面这样了。
 
 ![Step 2-2](https://upload-images.jianshu.io/upload_images/4018124-ee9fd8162b1663c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-点击`Extract`，就能看到令人兴奋的事情了，我们看到在下面的框中出现了多条`Item`，每条Item都对应着一条通知信息，其中`{%1}`=`链接`， `{%2}`=`标题`， `{%3}`=`日期`，记住这个对应关系。
+点击`Extract`，就能看到令人兴奋的事情了，我们看到在下面的框中出现了多条`Item`，每条Item都对应着一条通知信息，其中`(%1)`=`链接`， `(%2)`=`标题`， `(%3)`=`日期`，记住这个对应关系。
 
 ![Step 2-3](https://upload-images.jianshu.io/upload_images/4018124-f981174017ca5cd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### Step 3
 
-接下来到了`Step 3`，`Feed Title` 、`Feed Link` 和 `Feed Description`都自动填好了，你也可以自己修改，但是`Feed Link` 不要去修改它。再看下面，`Item Title Template`填上标题对应的`{%2}`，`Item Link Template`填上链接对应的`{%1}`，至于`Item Content Template`我的代码里并没有通知的具体内容，所以就不填，完成后如下。 
+接下来到了`Step 3`，`Feed Title` 、`Feed Link` 和 `Feed Description`都自动填好了，你也可以自己修改，但是`Feed Link` 不要去修改它。再看下面，`Item Title Template`填上标题对应的`(%2)`，`Item Link Template`填上链接对应的`(%1)`，至于`Item Content Template`我的代码里并没有通知的具体内容，所以就不填，完成后如下。 
 
 ![Step 3-1](https://upload-images.jianshu.io/upload_images/4018124-4f404ee8fdb4e855.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -87,6 +87,10 @@ IFTTT也可选接收信息提醒，这样RSS源消息有更新，IFTTT和Telegra
 RSSHub给我们提供了很多RSS订阅源，我们可以去网站上找自己需要的，例如我就用RSSHub提供的订阅源推送bilibili up主更新
 ## 2.官方RSS源
 很多新闻类网站都提供了RSS源，例如我就订阅了少数派的RSS[https://sspai.com/feed](https://sspai.com/feed)，其他的源网站可以自己找找看
+
+
+**注解**
+[1] 由于格式问题，此处()应为{},注意替换,下同
 
 ---
 ```
