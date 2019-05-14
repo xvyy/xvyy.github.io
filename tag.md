@@ -1,6 +1,6 @@
 ---
 bg: "photo09.jpg"
-layout: post
+layout: page
 permalink: /tags/
 title: "Tags"
 crawlertitle: "Articles Tags"
