@@ -1,6 +1,6 @@
 ---
 bg: "photo09.jpg"
-layout: page
+layout: post
 permalink: /tags/
 title: "Tags"
 crawlertitle: "Articles Tags"
@@ -27,7 +27,7 @@ active: tag
           {% endif %}
         </li>
       {% endif %}
-    {% endfor %}
+    {% endfor %} 
   </ul>
 
 {% endfor %}
