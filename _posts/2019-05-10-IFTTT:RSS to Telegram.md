@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "IFTTT: RSS to Telegram"
-crawlertitle: "page title"
-summary: "post description"
+crawlertitle: "IFTTT: RSS to Telegram" #"page title"
+summary: 通过IFTTT将RSS源信息推送到Telegram #"post description"
 date: 2019-05-10 16:00:00 +0800
-tags : "Ubuntu"
+tags : "RSS"
 author: "vpromise"
 categories: "tech"
 ---
