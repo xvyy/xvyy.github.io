@@ -3,6 +3,10 @@
 
 [blog](https://vpromisever.github.io)
 
+forked form Voyager
+
+edit by vpromise
+
 ## Voyager
 
 Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
