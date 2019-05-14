@@ -16,6 +16,8 @@ Just keep making magic!
 
 [简书](https://www.jianshu.com/u/cf0e68109e57)
 
+[mail](vpromisever@gmail.com)
+
 <br/>
 
 `
