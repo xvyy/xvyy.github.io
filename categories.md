@@ -1,5 +1,5 @@
 ---
-bg: "photo16.jpg"
+bg: "photo65.jpg"
 layout: page
 permalink: /categories/
 title: "Categories"

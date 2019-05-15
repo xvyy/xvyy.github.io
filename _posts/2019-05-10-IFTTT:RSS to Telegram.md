@@ -1,4 +1,5 @@
 ---
+bg: "photo03.jpg"
 layout: post
 title: "IFTTT: RSS to Telegram"
 crawlertitle: "IFTTT: RSS to Telegram" #"page title"

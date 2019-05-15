@@ -1,5 +1,5 @@
 ---
-bg: "photo09.jpg"
+bg: "photo36.jpg"
 layout: page
 permalink: /tags/
 title: "Tags"
