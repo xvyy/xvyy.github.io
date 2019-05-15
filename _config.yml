@@ -7,7 +7,7 @@
 
 # Site settings
 title: VPROMISE BLOG
-email: vpromise@gmail.com
+email: vpromisever@gmail.com
 description: keep making magic!
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
