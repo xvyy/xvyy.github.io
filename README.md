@@ -3,13 +3,10 @@
 
 [blog](https://vpromisever.github.io)
 
-forked form Voyager
+thanks to [Voyager](http://redvi.github.io/voyager)
 
-edit by vpromise
+edit by [vpromise](https://github.com/vpromisever)
 
-## Voyager
-
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
 
 ### Feathures:
 
@@ -22,15 +19,15 @@ All post settings can be changed. Example:
 ```
 ---
 layout: post
-bg: '2016/background.jpg'
+bg: 'photo01-77.jpg'
 title: "Post Heading"
 crawlertitle: "page title"
 summary: "post description"
-date: 2016-06-29
-tags : ['front-end']
+date: 2019-06-29
+tags : "Ubuntu deep-learning markdown ..."
 slug: post-url
-author: "Author"
-categories: posts
+categories: "tech life paper code knoeledge ..."
+author: "vpromise"
 ---
 ```
 
@@ -48,35 +45,6 @@ permalink: /about/
 active: about
 ---
 ```
-
-**Archive**
-
 Archive page is sorting posts by tags. No more than one tag in one post.
 
-Good:
 
-```
-tags : ['front-end']
-```
-
-Bad:
-
-```
-tags : ['front-end', 'jekyll']
-```
-
-Don't forget to change `_config.yml`.
-
-**Relative paths**
-
-If your blog is not in the root directory, you can include images with a relative path. For example:
-
-```
-![my_image]({{ site.images | relative_url }}/image.jpg)
-```
-
-## Production environment
-
-Build for production:
-
-`JEKYLL_ENV=production jekyll build`
