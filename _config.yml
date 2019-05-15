@@ -8,8 +8,8 @@
 # Site settings
 title: vpromise blog
 email: vpromisever@gmail.com
-description: keep making magic!
-baseurl: "" # the subpath of your site, e.g. /blog
+description: > keep making magic!
+baseurl: "./posts" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "http://vpromisever.github.io" # the base hostname & protocol for your site
 twitter_username: vpromise1024
