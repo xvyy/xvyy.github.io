@@ -1,11 +1,11 @@
 # vpromise's blog
-<https://vpromisever.github.io/>
+<https://vpromise.github.io/>
 
-[blog](https://vpromisever.github.io)
+[blog](https://vpromise.github.io)
 
 thanks to [Voyager](http://redvi.github.io/voyager)
 
-edit by [vpromise](https://github.com/vpromisever)
+edit by [vpromise](https://github.com/vpromise)
 
 
 ### Feathures:
