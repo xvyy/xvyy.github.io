@@ -7,13 +7,13 @@
 
 # Site settings
 title: VPROMISE BLOG
-email: vpromisever@gmail.com
+email: vpromise@gmail.com
 description: keep making magic!
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://vpromisever.github.io" # the base hostname & protocol for your site
+url: "http://vpromise.github.io" # the base hostname & protocol for your site
 twitter_username: vpromise1024
-github_username:  vpromisever
+github_username:  vpromise
 disqus_username:
 
 # Build settings
