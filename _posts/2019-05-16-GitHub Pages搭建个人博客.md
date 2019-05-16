@@ -6,7 +6,6 @@ crawlertitle: "GitHub Pages Blog"
 summary: "GitHub Pages Blog"
 date: 2019-05-16 20:05:00 +0800
 tags : "blog"
-slug: post-url
 categories: "tech"
 author: "vpromise"
 ---
