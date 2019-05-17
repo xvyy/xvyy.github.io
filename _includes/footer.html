@@ -1,4 +1,10 @@
-<footer class="blog-footer content-wrapper">
+<!-- <footer class="blog-footer content-wrapper">
   <p>&copy; <span class="full-year"></span> {{ site.title }}</p>
 </footer>
-<script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+<script src="{{ site.baseurl }}/assets/js/scripts.js"></script> -->
+
+<footer class="footer" role="contentinfo">
+	<div class="container">
+		<p class="copyright">Copyright &copy; 2019-{{ site.time | date: '%Y' }} <a href="{{site.resume_site}}"><code>{{ site.author }}</code></a>.</p>
+	</div>
+</footer>
