@@ -17,13 +17,13 @@ author: "vpromise"
 ---
 之前一直用简书来记录自己的想法，不得不说简书的Markdown支持对于写作还是很友好的，但是作为一个爱折腾的人，还是想搭建一个自己的博客，于是也便有了本文，基于GitHub Pages搭建自己的博客，GitHub建站十分方便而且免费，同时网上有大量的主题供你选择，你也可以修改定制自己的网站页面。可以说GitHub建站是初学者的首选，免费简单且好用，话不多说，让我们开始吧。
 
-##  一、GitHub
+##  1. GitHub
 
-### 1. 注册GitHub
+### 1.1 注册GitHub
 
 首先自然是注册属于自己的GitHub账号，这个在此就不赘述了
 
-### 2. 新建Repository
+### 1.2 新建Repository
 
 - 点击`New respository`新建一个**Repository**,此处注意在填`Repository name`时有特定的格式要求，为`Owner_name.github.io`,其中`Owner_name`保持和前面`Owner`一致就行了，见下图，例如我的Repository就是`vpromise.github.io`,其他的可以不用管了，点击`Create repository`完成
 
@@ -34,7 +34,7 @@ author: "vpromise"
 
   
 
-## 二、Jekyll Theme
+## 2. Jekyll Theme
 
 ### 2.1 选择Jekyll Theme
 
@@ -50,8 +50,12 @@ author: "vpromise"
 - 接下来就是定制自己的主题了，一般模板的`README.md`文件都有写修改的提示，我们应当首先看一下了解一下，修改主题都是从`_config.yml`入手，修改博客名、描述等，还有就是添加一些个人信息，此部分较为灵活，不同主题的`_config.yml`内容也不尽相同，自己多改改看效果就好
 
 - 还有一些页面的修改就稍显麻烦了，也都需要自己去摸索了，这里也无法展开讲，尽量就把每个文件都点开看看吧，一般能发现一些东西，我也是自己一个个看，慢慢试
+![my blog](https://i.loli.net/2019/05/17/5cde0f6775da791234.png)
 
 
 
-## Blog
+## 3. Blog
+
 ### 3.1 posts
+
+{hello}
