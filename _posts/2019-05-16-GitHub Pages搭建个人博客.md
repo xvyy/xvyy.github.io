@@ -12,8 +12,6 @@ author: "vpromise"
 
 
 
-[toc]
-
 *介绍如何利用GitHub Pages来搭建个人的博客，美观且免费*
 
 ---
