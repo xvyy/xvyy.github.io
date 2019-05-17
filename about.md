@@ -18,7 +18,7 @@ active: about
 
 <br/>
 
-- [GitHub](https://github.com/vpromisever/)
+- [GitHub](https://github.com/vpromise/)
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
 
