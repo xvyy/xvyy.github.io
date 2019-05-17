@@ -1,7 +1,7 @@
 ---
 bg: "photo68.jpg"
 layout: page
-permalink: /time/
+permalink: /date/
 title: "Timeline"
 crawlertitle: "Timeline"
 summary: "Timeline"
