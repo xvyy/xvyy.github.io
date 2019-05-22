@@ -14,7 +14,7 @@
           {% for categories in page.categories %}
             {% if page.tags %}
               {% for tag in page.tags %}
-                <a href="{{ site.baseurl }}/{{ categories | downcase }}/#{{ tag | downcase }}">{{ categories | downcase }}{{ tag | downcase }}</a>
+                <a href="{{ site.baseurl }}/{{ categories | downcase }}/#{{ tag | downcase }}">{{ tag | downcase }}</a>
               {% endfor %}
             {% else %}
               {{ page.title }}
