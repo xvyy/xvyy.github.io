@@ -10,7 +10,7 @@
       <div class="heading">
 
 
-        {% if page.categories %}
+        <!-- {% if page.categories %}
           {% for categories in page.categories %}
             {% if page.title %}
               {% for title in page.title %}
@@ -19,19 +19,19 @@
             {% else %}
               {{ page.title }}
             <!-- {% endif %} -->
-            {% endfor %}
+            <!-- {% endfor %}
         {% else %}
           {{ page.title }}
-        {% endif %}
+        {% endif %} --> -->
         
         
-        <!-- {% if page.tags %}
+        {% if page.tags %}
           {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
+            <a href="{{ site.baseurl }}/{{ tag | downcase }}">{{ tag | downcase }}</a>
           {% endfor %}
         {% else %}
           {{ page.title }}
-        {% endif %} -->
+        {% endif %}
 
       </div>
 
