@@ -1,7 +1,7 @@
 ---
 bg: "photo36.jpg"
 layout: page
-permalink: /posts/
+permalink: /posts/tags/
 title: "Tags"
 crawlertitle: "Articles Tags"
 summary: "Articles Tags"
