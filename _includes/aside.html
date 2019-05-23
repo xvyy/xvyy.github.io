@@ -9,9 +9,10 @@
     <div class="cover-text">
       <div class="heading">     
         
-        {% if page.tags %}
-          {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tags/">{{ tag | downcase }}</a>
+        {% if page.categories %}
+          {% for category in page.categories %}
+            <a {{category:}}></a>
+            <a href="{{ site.baseurl }}/categories/">{{ category | downcase }}</a>
           {% endfor %}
         {% else %}
           {{ page.title }}
