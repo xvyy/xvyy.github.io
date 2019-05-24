@@ -3,7 +3,7 @@
 
 [blog](https://vpromise.github.io)
 
-thanks to [Voyager](http://redvi.github.io/voyager)
+thanks to [Voyager](https://github.com/redVi/voyager)
 
 edit by [vpromise](https://github.com/vpromise)
 
@@ -23,7 +23,7 @@ bg: 'photo01-77.jpg'
 title: "Post Heading"
 crawlertitle: "page title"
 summary: "post description"
-date: 2019-06-29
+date: 2019-06-29 00:00:00 +08000
 tags : "Ubuntu deep-learning markdown ..."
 slug: post-url
 categories: "tech life paper code knoeledge ..."
