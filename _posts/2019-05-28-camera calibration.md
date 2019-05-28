@@ -36,7 +36,7 @@ categories: "tech"
 ![1-1.jpg](https://i.loli.net/2019/05/28/5cece2bdb444326067.jpg)  
 <center>图1-1 坐标系绕z轴旋转θ角</center>
 
-同理，可得绕x轴旋转角和绕y轴旋转ω角的旋转矩阵R2和R3，如下所示：
+同理，可得绕x轴旋转$\phi$角和绕y轴旋转ω角的旋转矩阵R2和R3，如下所示：
 ![3.png](https://i.loli.net/2019/05/28/5cece0a7b3b2865129.png)
 
 ![1-2.jpg](https://i.loli.net/2019/05/28/5cece2be6a9c779701.jpg)
