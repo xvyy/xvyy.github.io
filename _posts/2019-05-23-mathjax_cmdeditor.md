@@ -1,4 +1,4 @@
-﻿---
+---
 bg: "photo08.jpg"
 layout: post
 title: "Markdown公式教程"
