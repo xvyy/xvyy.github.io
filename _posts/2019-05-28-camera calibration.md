@@ -1,5 +1,5 @@
 ---
-bg: "photo10.jpg"
+bg: "photo09.jpg"
 layout: post
 title: "相机标定"
 crawlertitle: Camera Calibration #"page title"
