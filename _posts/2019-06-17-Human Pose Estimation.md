@@ -12,12 +12,13 @@ categories: "tech"
 
 
 *A collection of resources on Human Pose Estimation.*
-*转载于[Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)*
+*转载于[**Awesome Human Pose Estimation**](https://github.com/cbsudux/awesome-human-pose-estimation)*
 
 ---
 
 # Awesome Human Pose Estimation
 
+![Awesome Human Pose Estimation](https://raw.githubusercontent.com/cbsudux/awesome-human-pose-estimation/master/diagram_2.png)
 
 ## Why awesome human pose estimation?
 
