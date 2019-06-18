@@ -7,7 +7,7 @@ summary: Human Pose Estimation #"post description"
 date: 2019-06-17 18:00:00 +0800
 tags : 'human-pose-estimation'
 author: "cbsudux"
-categories: "tech"
+categories: "paper"
 ---
 
 
