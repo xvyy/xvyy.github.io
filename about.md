@@ -4,7 +4,7 @@ layout: page
 title: "About"
 crawlertitle: "About this blog"
 permalink: /about/
-summary: "About this blog"
+summary: "About me"
 active: about
 ---
 # <center>About me</center>
@@ -22,10 +22,12 @@ active: about
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
 
-- mail@`vpromisever@gmail.com`
+- @`vpromisever@gmail.com`
+
+- [团队主页](http://faculty.uestc.edu.cn/ihl/zh_CN/index.htm)
 
 <br/>
 
 `
-updata at 20190514
+updata at 20190619
 `
