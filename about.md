@@ -27,7 +27,7 @@ active: about
 
 - @`vpromisever@gmail.com`
   
-- @`vpriomise@std.uestc.edu.cn`
+- @`vpromise@std.uestc.edu.cn`
 
 
 <br/>
