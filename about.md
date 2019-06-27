@@ -7,6 +7,7 @@ permalink: /about/
 summary: "About me"
 active: about
 ---
+
 # <center>About me</center>
 
 <center>It's vpromsie's blog!</center>
@@ -22,9 +23,12 @@ active: about
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
 
-- @`vpromisever@gmail.com`
-
 - [团队主页](http://faculty.uestc.edu.cn/ihl/zh_CN/index.htm)
+
+- @`vpromisever@gmail.com`
+  
+- @`vpriomise@std.uestc.edu.cn`
+
 
 <br/>
 
