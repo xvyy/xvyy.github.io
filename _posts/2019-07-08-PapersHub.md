@@ -1,8 +1,8 @@
 ---
 bg: "photo18.jpg"
 layout: post
-title: "PapersHub"
-crawlertitle: PapersHub
+title: "PaperHub"
+crawlertitle: PaperHub
 summary: My ToolBox for Papers
 date: 2019-07-08 11:00:00 +0800
 categories: "work"
@@ -10,7 +10,7 @@ tags: "paper"
 author: "vpromise"
 ---
 
-ToolBox：建立自己的PapersHub
+ToolBox：建立自己的PaperHub
 
 [`持续更新`](https://github.com/vpromise/PaperHub)
 
