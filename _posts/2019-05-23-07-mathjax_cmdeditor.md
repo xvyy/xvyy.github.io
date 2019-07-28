@@ -1,5 +1,5 @@
 ---
-bg: "photo08.jpg"
+bg: "photo07.jpg"
 layout: post
 title: "Markdown公式教程"
 crawlertitle: Markdown公式教程 #"page title"

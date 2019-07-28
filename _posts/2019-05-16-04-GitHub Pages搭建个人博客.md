@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: 'photo05.jpg'
+bg: 'photo04.jpg'
 title: "GitHub Pages 搭建个人博客"
 crawlertitle: "GitHub Pages Blog"
 summary: "GitHub Pages Blog"

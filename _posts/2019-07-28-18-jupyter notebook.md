@@ -1,5 +1,5 @@
 ---
-bg: "photo19.jpg"
+bg: "photo18.jpg"
 layout: post
 title: "Jupyter Notebook配置"
 crawlertitle: Jupyter Notebook
