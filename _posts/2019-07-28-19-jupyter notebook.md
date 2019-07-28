@@ -72,7 +72,8 @@ jt -r
 
 ## Conda 环境自由切换
 我的 Conda 下创建了多个虚拟环境，包含不同的包来适配不同的任务需要，这也就造成了每次在 Jupyter 中调用不同的环境需要关闭再重开，操作很麻烦，而且在不同虚拟环境中都需要装Jupyter Notebook。
-其实，只需要把 Anaconda 中创建的所有定制环境作为核心添加在了 Jupyter Notebook 中。这样我们就能简单地利用 Kernel 按钮切换环境。换核的时候不需要重启 notebook。
+
+其实，只需要把 Anaconda 中创建的所有定制环境作为核心添加在了 Jupyter Notebook 中。这样我们就能简单地利用 Kernel 按钮切换环境。换核的时候不需要重启Jupyter Notebook。
 #### 2.1 添加到 Kernal
 我的虚拟环境有`deep`和`cv`，添加到 Jupyter Notebook 中
 ```
