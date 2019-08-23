@@ -96,6 +96,16 @@ python -m ipykernel install --user --name=cv
 完成后在`base`中启动 Jupyter Notebook，便可通过`Kernal`-->`Change Kernal`来切换不同的内核了，而不用关闭 Jupyter Notebook 再重开。
 ![kernel](https://i.loli.net/2019/07/28/5d3d4be75ce5840151.png)
 
+#### 2.3 移除 Jupyter 关联环境
+查看 Jupyter 关联的内核环境
+```
+jupyter kernelspec list
+```
+移除 Jupyter 关联环境
+```
+jupyter kernelspec uninstall unwanted-kernel
+```
+
 ## 3. 更多炫酷功能
 开始提及的其他炫酷功能，需要安装一些叫做 `nbextensions for Jupyter Notebooks` 的东西。
 安装地址：https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html
