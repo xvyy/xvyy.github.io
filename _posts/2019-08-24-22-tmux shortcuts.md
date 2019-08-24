@@ -11,12 +11,13 @@ author: "vpromise"
 ---
 
 *介绍`tmus`的快捷键配置*
+
+---
+
 *forked from [ryerh](https://gist.github.com/ryerh/14b7c24dfd623ef8edc7)*
 *thankes to:*
 - [*MohamedAlaa*](https://gist.github.com/MohamedAlaa)
 - [*ryerh*](https://gist.github.com/ryerh)
-
----
 
 注意：本文内容适用于 Tmux 2.3 及以上的版本，但是绝大部分的特性低版本也都适用，鼠标支持、VI 模式、插件管理在低版本可能会与本文不兼容。
 
