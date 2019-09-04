@@ -60,11 +60,12 @@ I值越高表示与部位m密切相关的特征也为部位n提供了信息线�
 ![表3 Comparisons of PCK@0.2 scores on the corrected LSP testing set](https://i.loli.net/2019/09/04/xUuLWRMQ1rjdlN4.png)
 <center>表3 Comparisons of PCK@0.2 scores on the corrected LSP testing set</center>
 
-###　Ablation study
+### Ablation study
 论文还做了大量实验，分析了特定的feature层的深度和宽度选取多少合适，讨论了身体部位分组的策略以及分组中存在部位重叠的效果等等大量的实验内容，更多的实验内容可以参考论文。
-![Screenshot from 2019-09-04 15-40-56.png](https://i.loli.net/2019/09/04/SreOqp2TU6gBi35.png)
+![Ablation study using variants of three-stack PBNs](https://i.loli.net/2019/09/04/SreOqp2TU6gBi35.png)
+<center>Ablation study using variants of three-stack PBNs</center>
 
-##　总结
+## 总结
 论文通过大量的基准数据集实验和消融研究，得出结论，学习相关身体部位的特定特征可以显著改善遮挡部位的定位，从而有利于人体姿态估计。
 
 似乎这是一个很自然的想法，但先前的工作的都是对各个部位共享参数来定位的，但论文中做　Ablation study　时，证明对不同身体部位分组有重叠的情况下，反而对最后结果没有提升帮助，个人认为此部分可以再去做更多实验来验证。而且多个分组得到的结果直接取均值来算最后结果并不是一个可靠的方法，也许不同的部位的权重也需要考虑，注意力机制也许是一个很好的方法，可以应用到本文中。
