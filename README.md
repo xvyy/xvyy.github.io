@@ -1,7 +1,5 @@
-# vpromise's blog
+# [vpromise's blog](https://vpromise.github.io)
 <https://vpromise.github.io/>
-
-[blog](https://vpromise.github.io)
 
 thanks to [Voyager](https://github.com/redVi/voyager)
 
