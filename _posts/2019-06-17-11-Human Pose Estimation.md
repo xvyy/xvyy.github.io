@@ -5,7 +5,7 @@ title: "Human Pose Estimation"
 crawlertitle: Human Pose Estimation #"page title"
 summary: Human Pose Estimation #"post description"
 date: 2019-06-17 18:00:00 +0800
-tags : 'human-pose-estimation'
+tags : 'HPE'
 author: "cbsudux"
 categories: "paper"
 ---
@@ -27,25 +27,25 @@ This is a collection of papers and resources I curated when learning the ropes i
 
 
 ## Table of Contents
-- [Awesome Human Pose Estimation](#Awesome-Human-Pose-Estimation)
-  - [Why awesome human pose estimation?](#Why-awesome-human-pose-estimation)
-  - [Table of Contents](#Table-of-Contents)
-  - [Basics](#Basics)
-  - [Papers](#Papers)
-    - [2D Pose estimation](#2D-Pose-estimation)
-    - [3D Pose estimation](#3D-Pose-estimation)
-    - [Person generation](#Person-generation)
-    - [Real-time pose estimation](#Real-time-pose-estimation)
-  - [Datasets](#Datasets)
-    - [2D](#2D)
-    - [3D](#3D)
-  - [Workshops](#Workshops)
-  - [Blog posts](#Blog-posts)
-  - [Popular implementations](#Popular-implementations)
-    - [PyTorch](#PyTorch)
-    - [TensorFlow](#TensorFlow)
-    - [Torch](#Torch)
-    - [Others](#Others)
+- [Awesome Human Pose Estimation](#awesome-human-pose-estimation)
+  - [Why awesome human pose estimation?](#why-awesome-human-pose-estimation)
+  - [Table of Contents](#table-of-contents)
+  - [Basics](#basics)
+  - [Papers](#papers)
+    - [2D Pose estimation](#2d-pose-estimation)
+    - [3D Pose estimation](#3d-pose-estimation)
+    - [Person generation](#person-generation)
+    - [Real-time pose estimation](#real-time-pose-estimation)
+  - [Datasets](#datasets)
+    - [2D](#2d)
+    - [3D](#3d)
+  - [Workshops](#workshops)
+  - [Blog posts](#blog-posts)
+  - [Popular implementations](#popular-implementations)
+    - [PyTorch](#pytorch)
+    - [TensorFlow](#tensorflow)
+    - [Torch](#torch)
+    - [Others](#others)
 
 ## Basics
 - [A 2019 guide to Human Pose Estimation with Deep Learning](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=reddit&utm_medium=social&utm_campaign=pose&utm_content=GROUP_NAME)
