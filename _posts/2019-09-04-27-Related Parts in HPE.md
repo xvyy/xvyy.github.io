@@ -1,7 +1,7 @@
 ---
 bg: "photo2７.jpg"
 layout: post
-title: "Specific Features for Related Parts Help HPE"
+title: "Related Parts Help HPE"
 crawlertitle: PBN for HPE
 summary: Learning Specific Features for Related Parts Help HPE
 date: 2019-09-04 16:00:00 +0800
