@@ -5,7 +5,7 @@ title: "相机标定"
 crawlertitle: Camera Calibration #"page title"
 summary: Camera Calibration #"post description"
 date: 2019-05-28 14:00:00 +0800
-tags : 'matrix'
+tags : 'math'
 author: "vpromise"
 categories: "paper"
 ---

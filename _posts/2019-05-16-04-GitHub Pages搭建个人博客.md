@@ -5,7 +5,7 @@ title: "GitHub Pages 搭建个人博客"
 crawlertitle: "GitHub Pages Blog"
 summary: "GitHub Pages Blog"
 date: 2019-05-16 20:05:00 +0800
-tags : "blog github"
+tags : "blog"
 categories: "tech"
 author: "vpromise"
 ---

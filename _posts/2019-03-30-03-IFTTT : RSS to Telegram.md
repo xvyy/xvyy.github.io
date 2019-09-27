@@ -5,7 +5,7 @@ title: "IFTTT: RSS to Telegram"
 crawlertitle: "IFTTT: RSS to Telegram" #"page title"
 summary: 通过IFTTT将RSS源信息推送到Telegram #"post description"
 date: 2019-03-30 11:00:00 +0800
-tags : "RSS"
+tags : "other"
 author: "vpromise"
 categories: "tech"
 ---
