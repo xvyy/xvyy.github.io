@@ -10,6 +10,10 @@ tags: "HPE"
 author: "vpromise"
 ---
 
+*Common Evaluation Metrics for Human Pose Estimation*
+
+---
+
 # Common Evaluation Metrics for HPE
 
 Evaluation metrics are needed to measure the performance of human pose estimation models.
