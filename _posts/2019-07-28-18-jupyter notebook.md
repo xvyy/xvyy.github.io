@@ -6,7 +6,7 @@ crawlertitle: Jupyter Notebook
 summary: Jupyter Notebook配置
 date: 2019-07-28 14:00:00 +0800
 categories: "tech"
-tags: "notebook"
+tags: "linux"
 author: "vpromise"
 ---
 
