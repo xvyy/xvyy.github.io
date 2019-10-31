@@ -4,7 +4,7 @@ layout: post
 title: "Common Evaluation Metrics for HPE"
 crawlertitle: "Evaluation Metrics for HPE"
 summary: "Common Evaluation Metrics for Human Pose Estimation"
-date: 2019-10-09 10:00:00 +0800
+date: 2019-10-24 10:00:00 +0800
 categories: "paper"
 tags: "HPE"
 author: "vpromise"
