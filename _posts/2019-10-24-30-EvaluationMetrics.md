@@ -14,9 +14,17 @@ author: "vpromise"
 
 ---
 
+
 # Common Evaluation Metrics for HPE
 
 Evaluation metrics are needed to measure the performance of human pose estimation models.
+
+- [Common Evaluation Metrics for HPE](#common-evaluation-metrics-for-hpe)
+  - [Percentage of Correct Parts - PCP:](#percentage-of-correct-parts---pcp)
+  - [Percentage of Correct Key-points - PCK:](#percentage-of-correct-key-points---pck)
+  - [Percentage of Detected Joints - PDJ:](#percentage-of-detected-joints---pdj)
+  - [Mean Per Joint Position Error - MPJPE](#mean-per-joint-position-error---mpjpe)
+  - [Object Keypoint Similarity (OKS) based mAP:](#object-keypoint-similarity-oks-based-map)
 
 ## Percentage of Correct Parts - PCP: 
 A limb is considered detected  (a correct part) if the distance between the two predicted joint locations and the true limb joint locations is less than half of the limb length (Commonly denoted as PCP@0.5).
