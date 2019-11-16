@@ -15,6 +15,19 @@ author: "vpromise"
 *介绍如何利用GitHub Pages来搭建个人的博客，美观且免费*
 
 ---
+
+- [1. GitHub](#1-github)
+  - [1.1 注册GitHub](#11-%e6%b3%a8%e5%86%8cgithub)
+  - [1.2 新建Repository](#12-%e6%96%b0%e5%bb%barepository)
+- [2. Jekyll Theme](#2-jekyll-theme)
+  - [2.1 选择Jekyll Theme](#21-%e9%80%89%e6%8b%a9jekyll-theme)
+  - [2.2 修改主题](#22-%e4%bf%ae%e6%94%b9%e4%b8%bb%e9%a2%98)
+- [3. Blog](#3-blog)
+  - [3.1 posts](#31-posts)
+  - [3.2 push](#32-push)
+  - [3.3 其他](#33-%e5%85%b6%e4%bb%96)
+
+
 之前一直用简书来记录自己的想法，不得不说简书的Markdown支持对于写作还是很友好的，但是作为一个爱折腾的人，还是想搭建一个自己的博客，于是也便有了本文，基于GitHub Pages搭建自己的博客，GitHub建站十分方便而且免费，同时网上有大量的主题供你选择，你也可以修改定制自己的网站页面。可以说GitHub建站是初学者的首选，免费简单且好用，话不多说，让我们开始吧。
 
 
