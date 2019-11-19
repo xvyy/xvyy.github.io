@@ -19,9 +19,6 @@ categories: "tech"
 ---
 
 
-## Cmd Markdown 公式指导手册
-
-
 *由于Github Pages的Jekyll问题，导致部分内容出错，故全文不予以展示，可以直接点上方连接看原文，也可以去我的[简书](https://www.jianshu.com/p/4460692eece4)查看*
 
 

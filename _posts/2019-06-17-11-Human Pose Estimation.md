@@ -17,6 +17,26 @@ categories: "paper"
 
 ---
 
+- [Awesome Human Pose Estimation](#awesome-human-pose-estimation)
+  - [Why awesome human pose estimation?](#why-awesome-human-pose-estimation)
+  - [Table of Contents](#table-of-contents)
+  - [Basics](#basics)
+  - [Papers](#papers)
+    - [2D Pose estimation](#2d-pose-estimation)
+    - [3D Pose estimation](#3d-pose-estimation)
+    - [Person generation](#person-generation)
+    - [Real-time pose estimation](#real-time-pose-estimation)
+  - [Datasets](#datasets)
+    - [2D](#2d)
+    - [3D](#3d)
+  - [Workshops](#workshops)
+  - [Blog posts](#blog-posts)
+  - [Popular implementations](#popular-implementations)
+    - [PyTorch](#pytorch)
+    - [TensorFlow](#tensorflow)
+    - [Torch](#torch)
+    - [Others](#others)
+
 # Awesome Human Pose Estimation
 
 ![Awesome Human Pose Estimation](https://raw.githubusercontent.com/cbsudux/awesome-human-pose-estimation/master/diagram_2.png)
