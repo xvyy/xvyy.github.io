@@ -26,7 +26,7 @@ author: "vpromise"
 ## 技术 
 - [正则表达式](https://sspai.com/post/56787)
 - [用 Github 在线播放幻灯](https://sspai.com/post/56189)
-- []()
+- [LXD GPU 服务器搭建、管理与使用](https://butui.me/post/lxd-gpu-server/)
 
 ## 生活
 - [迪卡侬-消费降级的去处](https://sspai.com/post/57441)
