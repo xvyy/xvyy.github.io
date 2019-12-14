@@ -1,7 +1,7 @@
 ---
 bg: "photo34.jpg"
 layout: post
-title: "Cross View Fusion for 3D Human Pose Estimation"
+title: "Cross View Fusion for 3D HPE"
 crawlertitle: "Cross View Fusion"
 summary: "Cross View Fusion for 3D HPE"
 date: 2019-12-04 15:00:00 +0800
