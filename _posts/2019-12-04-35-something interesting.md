@@ -32,4 +32,4 @@ author: "vpromise"
 - [迪卡侬-消费降级的去处](https://sspai.com/post/57441)
 
 ## 博客
-- [Linmi | Notion Pro](https://linmi.cc)
+- [Linmi | Notion](https://linmi.cc)
