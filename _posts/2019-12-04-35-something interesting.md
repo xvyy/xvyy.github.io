@@ -23,7 +23,6 @@ author: "vpromise"
 - [论文读不懂怎么办？](https://sspai.com/post/57303)
 - [Zotero 文献阅读生态](https://sspai.com/post/57943)
 - [Zotero 学习路径指南](https://sspai.com/post/56724)
-- []()
 
 
 ## 技术 
@@ -36,3 +35,7 @@ author: "vpromise"
 
 ## 博客
 - [Linmi | Notion](https://linmi.cc)
+
+
+---
+- [back to top](#%e7%a7%91%e7%a0%94)
