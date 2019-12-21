@@ -54,3 +54,7 @@ Please read the paper for mopre detial information.
 
 # Conclusion
 We propose an approach to estimate 3D human poses from multiple calibrated cameras. The first contribution is a CNN based multi-view feature fusion approach which significantly improves the 2D pose estimation accuracy. Thesecond contribution is a recursive pictorial structure modelto estimate 3D poses from the multi-view 2D poses. It improves over the PSM by a large margin. The two contributions are independent and each can be combined with the existing methods.
+
+---
+
+- [back to top](#abstract)
