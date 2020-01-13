@@ -1,5 +1,5 @@
 ---
-bg: "photo2７.jpg"
+bg: "photo27.jpg"
 layout: post
 title: "Related Parts Help HPE"
 crawlertitle: PBN for HPE
