@@ -10,7 +10,7 @@ tags: "blog"
 author: "vpromise"
 ---
 
-*记录一些有趣或有用的博客内容*
+*记录一些有趣或有用的内容*
 
 ---
 
@@ -30,6 +30,7 @@ author: "vpromise"
 - [用 Github 在线播放幻灯](https://sspai.com/post/56189)
 - [LXD GPU 服务器搭建、管理与使用](https://butui.me/post/lxd-gpu-server/)
 - [GeoGebra 数学应用](https://www.geogebra.org/)
+- [Telegram 群组、频道汇总](https://congcong0806.github.io/2018/04/24/Telegram/)
 
 ## 生活
 - [迪卡侬-消费降级的去处](https://sspai.com/post/57441)
