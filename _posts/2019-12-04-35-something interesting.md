@@ -33,6 +33,7 @@ author: "vpromise"
 
 ## 生活
 - [迪卡侬-消费降级的去处](https://sspai.com/post/57441)
+- [如何用一个登机箱舒适地完成 7-10 天的旅行](https://sspai.com/post/58350)
 
 ## 博客
 - [Linmi Notion](https://linmi.cc)
