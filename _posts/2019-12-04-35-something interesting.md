@@ -38,7 +38,7 @@ author: "vpromise"
 
 ## 博客
 - [Linmi Notion](https://linmi.cc)
-
+- [思考问的的熊](https://kaopubear.top/)
 
 ---
 - [back to top](#%e7%a7%91%e7%a0%94)
