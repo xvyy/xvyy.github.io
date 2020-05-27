@@ -18,8 +18,7 @@ disqus_username:
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
-# permalink: /:categories/:title/
+permalink: /:categories/:title/
 
 # Posts settings
 future: true
