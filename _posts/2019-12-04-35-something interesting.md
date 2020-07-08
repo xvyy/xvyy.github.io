@@ -14,10 +14,10 @@ author: "vpromise"
 
 ---
 
-- [科研](#%e7%a7%91%e7%a0%94)
-- [技术](#%e6%8a%80%e6%9c%af)
-- [生活](#%e7%94%9f%e6%b4%bb)
-- [博客](#%e5%8d%9a%e5%ae%a2)
+- [科研](#科研)
+- [技术](#技术)
+- [生活](#生活)
+- [博客](#博客)
 
 ## 科研
 - [论文读不懂怎么办？](https://sspai.com/post/57303)
@@ -31,6 +31,7 @@ author: "vpromise"
 - [LXD GPU 服务器搭建、管理与使用](https://butui.me/post/lxd-gpu-server/)
 - [GeoGebra 数学应用](https://www.geogebra.org/)
 - [Telegram 群组、频道汇总](https://congcong0806.github.io/2018/04/24/Telegram/)
+- [Windows Terminal](https://sspai.com/post/59380)
 
 ## 生活
 - [迪卡侬-消费降级的去处](https://sspai.com/post/57441)
