@@ -10,9 +10,9 @@ active: about
 
 # <center>About me</center>
 
-<center>It's vpromsie's blog!</center>
-<br/>
-<center>Just keep making magic!</center>
+<center>一个无趣的人</center>
+<!-- <br/>
+<center>Just keep making magic!</center> -->
 
 
 
@@ -23,7 +23,7 @@ active: about
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
 
-- [团队主页](http://faculty.uestc.edu.cn/ihl/zh_CN/index.htm)
+- [团队主页](faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)
 
 - @`vpromisever@gmail.com`
   
