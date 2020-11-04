@@ -5,6 +5,8 @@ thanks to [Voyager](https://github.com/redVi/voyager)
 
 edit by [vpromise](https://github.com/vpromise)
 
+![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff)
+
 
 ### Feathures:
 
