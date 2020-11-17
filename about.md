@@ -11,11 +11,13 @@ active: about
 # <center>About me</center>
 
 <center>一个无趣的人</center>
+
+<br/>
+
+![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff)
+
 <!-- <br/>
 <center>Just keep making magic!</center> -->
-
-
-
 
 <br/>
 
@@ -28,7 +30,6 @@ active: about
 - @`vpromisever@gmail.com`
   
 - @`vpromise@std.uestc.edu.cn`
-
 
 <br/>
 
