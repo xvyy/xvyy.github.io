@@ -20,8 +20,8 @@ author: "vpromise"
   [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
   20201214 - 2020
-  
-  [Git Study Blog]()
+
+  [Git Study Blog](https://github.com/vpromise/git)
 
 - **shell脚本**
 
