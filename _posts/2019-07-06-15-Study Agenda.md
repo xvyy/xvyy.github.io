@@ -14,8 +14,14 @@ author: "vpromise"
 
 ---
 
-
 ## 学习计划
+
+- **Git学习**
+  [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+  20201214 - 2020
+  [Git Study Blog]()
+
+- **shell脚本**
 
 - **统计学习方法**
   - [ ] 第一章(201909)
@@ -35,6 +41,3 @@ author: "vpromise"
 ## 科研计划
 
 - **CAREN Data Process**
-  - [x] ~~手动标注~~(201907)
-  - [x] 相机标定(20190912)
-  - [ ] 
