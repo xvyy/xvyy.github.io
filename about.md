@@ -25,7 +25,7 @@ active: about
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
 
-- [团队主页](faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)
+- [团队主页](http://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)
 
 - @`vpromisever@gmail.com`
   
