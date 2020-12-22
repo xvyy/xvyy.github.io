@@ -14,6 +14,20 @@ author: "vpromise"
 
 ---
 
+- [Tmux 快捷键 & 速查表](#tmux-快捷键--速查表)
+- [在 Tmux 中，按下 Tmux 前缀 `ctrl+b`，然后：](#在-tmux-中按下-tmux-前缀-ctrlb然后)
+  - [会话](#会话)
+  - [<a name="WindowsTabs"></a>窗口 (标签页)](#窗口-标签页)
+  - [调整窗口排序](#调整窗口排序)
+  - [<a name="PanesSplits"></a>窗格（分割窗口）](#窗格分割窗口)
+  - [<a name="syncPanes"></a>同步窗格](#同步窗格)
+  - [调整窗格尺寸](#调整窗格尺寸)
+  - [文本复制模式：](#文本复制模式)
+  - [杂项：](#杂项)
+  - [配置选项：](#配置选项)
+  - [参考配置文件（~/.tmux.conf）：](#参考配置文件tmuxconf)
+
+
 *forked from [ryerh](https://gist.github.com/ryerh/14b7c24dfd623ef8edc7)*
 
 *thankes to:*

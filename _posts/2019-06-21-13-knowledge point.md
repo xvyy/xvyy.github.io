@@ -10,11 +10,9 @@ author: "vpromise"
 categories: "study"
 ---
 
-
 *各种知识点记录备忘* 
 
 ---
-
 ## CRF
 - [理解条件随机场](https://www.jianshu.com/p/55755fc649b1)
 - [CRF HMM](https://www.zhihu.com/question/35866596/answer/236886066)

@@ -10,17 +10,13 @@ author: "Cmd Markdown"
 categories: "tech"
 ---
 
-
 *介绍markdown公式编辑语法*
 
 *转载于[Cmd Markdown](https://www.zybuluo.com/codeep/note/163962)*
 
-
 ---
 
-
 *由于Github Pages的Jekyll问题，导致部分内容出错，故全文不予以展示，可以直接点上方连接看原文，也可以去我的[简书](https://www.jianshu.com/p/4460692eece4)查看*
-
 
 - 2018-03-20 补档：
 收到很多小伙伴对本文的源文档转载需求，故传了一份 md 文件，请按需 [下载](http://file.ericp.cn/work/mathjax_cmdeditor.md) 。

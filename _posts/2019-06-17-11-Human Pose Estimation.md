@@ -10,7 +10,6 @@ author: "cbsudux"
 categories: "paper"
 ---
 
-
 *A collection of resources on Human Pose Estimation.*
 
 *转载于[**Awesome Human Pose Estimation**](https://github.com/cbsudux/awesome-human-pose-estimation)*
