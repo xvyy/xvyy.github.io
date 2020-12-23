@@ -40,7 +40,7 @@ author: "vpromise"
 
 - **Paper Reading**
   - [ ] BERT
-  - [ ] 
+  - [ ] GCN
 
 ## 科研计划
 
