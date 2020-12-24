@@ -18,6 +18,7 @@ author: "vpromise"
 
 - **Git学习**
   [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+  [Git分支学习动画教程](https://learngitbranching.js.org/?NODEMO=&locale=zh_CN)
 
   20201214 - 2020
 
