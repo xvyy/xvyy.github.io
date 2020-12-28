@@ -16,33 +16,33 @@ author: "vpromise"
 
 ## 学习计划
 
-- **Git学习**
-  [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
-  [Git分支学习动画教程](https://learngitbranching.js.org/?NODEMO=&locale=zh_CN)
+### Git学习
+> - [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+> - [Git分支学习动画教程](https://learngitbranching.js.org/?NODEMO=&locale=zh_CN)
+> - [Git Study Notes GitHub](https://github.com/vpromise/git)
+> - [Git Study Notes Blog](https://vpromise.github.io/study/50-git/)
+>> 20201214 - 20201228
 
-  20201214 - 2020
+### shell脚本
 
-  [Git Study Blog](https://github.com/vpromise/git)
+### Vim学习
 
-- **shell脚本**
-
-- **Vim学习**
-
-- **统计学习方法**
+### 统计学习方法
   - [ ] 第一章(201909)
   - [ ] 第二章
 
-- **数据结构**
+### 数据结构
   - [ ] 第一章
 
-- **C & C++**
+### C & C++
 
-- **Leetcode**
+### Leetcode
 
-- **Paper Reading**
-  - [ ] BERT
-  - [ ] GCN
 
 ## 科研计划
 
-- **CAREN Data Process**
+### Paper Reading
+- More info on [Paper Daily Notion](https://www.notion.so/Paper-Daily-c347e848fae04889943844255d0e892f)
+
+### HPE
+- Task lists on Notion 
