@@ -26,7 +26,9 @@ author: "vpromise"
 ### shell脚本
 
 ### Vim学习
-
+> - [鳥哥的 Linux 私房菜 第九章 vim 程式編輯器](http://linux.vbird.org/linux_basic/0310vi.php)
+> - [openvim](https://www.openvim.com/tutorial.html)
+>> 20201229
 ### 统计学习方法
   - [ ] 第一章(201909)
   - [ ] 第二章
