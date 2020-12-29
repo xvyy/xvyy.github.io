@@ -27,6 +27,8 @@ author: "vpromise"
 > - [阮一峰 Bash 脚本教程](https://wangdoc.com/bash/intro.html)
 ### 正则表达式
 
+### 双拼输入法
+
 ### Vim学习
 > - [鳥哥的 Linux 私房菜 第九章 vim 程式編輯器](http://linux.vbird.org/linux_basic/0310vi.php)
 > - [openvim](https://www.openvim.com/tutorial.html)
