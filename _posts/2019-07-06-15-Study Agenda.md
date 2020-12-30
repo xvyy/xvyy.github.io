@@ -1,5 +1,5 @@
 ---
-bg: "photo15.jpg"
+bg: "photo015.jpg"
 layout: post
 title: "学习计划"
 crawlertitle: 学习计划

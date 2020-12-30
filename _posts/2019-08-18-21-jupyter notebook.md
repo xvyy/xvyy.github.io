@@ -1,5 +1,5 @@
 ---
-bg: "photo21.jpg"
+bg: "photo021.jpg"
 layout: post
 title: "jupyter notebook 快捷键"
 crawlertitle: jupyter notebook 快捷键

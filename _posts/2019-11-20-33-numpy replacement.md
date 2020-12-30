@@ -1,5 +1,5 @@
 ---
-bg: "photo33.jpg"
+bg: "photo033.jpg"
 layout: post
 title: "替换NumPy数组中大于某个值的所有元素"
 crawlertitle: "python numpy"
@@ -14,11 +14,11 @@ author: "vpromise"
 
 ---
 
-- [问题:Python替换NumPy数组中大于某个值的所有元素](#%e9%97%ae%e9%a2%98python%e6%9b%bf%e6%8d%a2numpy%e6%95%b0%e7%bb%84%e4%b8%ad%e5%a4%a7%e4%ba%8e%e6%9f%90%e4%b8%aa%e5%80%bc%e7%9a%84%e6%89%80%e6%9c%89%e5%85%83%e7%b4%a0)
-  - [最佳解决思路](#%e6%9c%80%e4%bd%b3%e8%a7%a3%e5%86%b3%e6%80%9d%e8%b7%af)
-  - [次佳解决思路](#%e6%ac%a1%e4%bd%b3%e8%a7%a3%e5%86%b3%e6%80%9d%e8%b7%af)
-  - [第三种思路](#%e7%ac%ac%e4%b8%89%e7%a7%8d%e6%80%9d%e8%b7%af)
-  - [第四种思路](#%e7%ac%ac%e5%9b%9b%e7%a7%8d%e6%80%9d%e8%b7%af)
+- [问题:Python替换NumPy数组中大于某个值的所有元素](#问题python替换numpy数组中大于某个值的所有元素)
+  - [最佳解决思路](#最佳解决思路)
+  - [次佳解决思路](#次佳解决思路)
+  - [第三种思路](#第三种思路)
+  - [第四种思路](#第四种思路)
 
 ## 问题:Python替换NumPy数组中大于某个值的所有元素
 我有一个2D(二维) NumPy数组，并希望用255.0替换大于或等于阈值T的所有值。据我所知，最基础的方法是：

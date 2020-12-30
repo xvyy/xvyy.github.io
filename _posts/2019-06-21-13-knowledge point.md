@@ -1,5 +1,5 @@
 ---
-bg: "photo13.jpg"
+bg: "photo013.jpg"
 layout: post
 title: "知识点"
 crawlertitle: 各种知识点记录 #"page title"

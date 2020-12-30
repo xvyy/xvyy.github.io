@@ -1,5 +1,5 @@
 ---
-bg: "photo11.jpg"
+bg: "photo011.jpg"
 layout: post
 title: "Human Pose Estimation"
 crawlertitle: Human Pose Estimation #"page title"

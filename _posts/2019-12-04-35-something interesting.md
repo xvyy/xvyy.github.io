@@ -1,5 +1,5 @@
 ---
-bg: "photo35.jpg"
+bg: "photo035.jpg"
 layout: post
 title: "一些有趣内容汇总"
 crawlertitle: "useful blog or post"

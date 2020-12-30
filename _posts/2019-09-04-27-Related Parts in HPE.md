@@ -1,5 +1,5 @@
 ---
-bg: "photo27.jpg"
+bg: "photo027.jpg"
 layout: post
 title: "Related Parts Help HPE"
 crawlertitle: PBN for HPE
@@ -15,15 +15,15 @@ author: "vpromise"
 ---
 
 - [Does Learning Specific Features for Related Parts Help Human Pose Estimation?](#does-learning-specific-features-for-related-parts-help-human-pose-estimation)
-  - [介绍](#%e4%bb%8b%e7%bb%8d)
-  - [贡献](#%e8%b4%a1%e7%8c%ae)
-  - [方法](#%e6%96%b9%e6%b3%95)
-    - [相关身体部位](#%e7%9b%b8%e5%85%b3%e8%ba%ab%e4%bd%93%e9%83%a8%e4%bd%8d)
-    - [基于部分的分支网络(PBN)](#%e5%9f%ba%e4%ba%8e%e9%83%a8%e5%88%86%e7%9a%84%e5%88%86%e6%94%af%e7%bd%91%e7%bb%9cpbn)
-  - [实验](#%e5%ae%9e%e9%aa%8c)
-    - [基准数据集结果](#%e5%9f%ba%e5%87%86%e6%95%b0%e6%8d%ae%e9%9b%86%e7%bb%93%e6%9e%9c)
+  - [介绍](#介绍)
+  - [贡献](#贡献)
+  - [方法](#方法)
+    - [相关身体部位](#相关身体部位)
+    - [基于部分的分支网络(PBN)](#基于部分的分支网络pbn)
+  - [实验](#实验)
+    - [基准数据集结果](#基准数据集结果)
     - [Ablation study](#ablation-study)
-  - [总结](#%e6%80%bb%e7%bb%93)
+  - [总结](#总结)
 
 # Does Learning Specific Features for Related Parts Help Human Pose Estimation?
 

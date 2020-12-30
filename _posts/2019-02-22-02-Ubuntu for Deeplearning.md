@@ -1,5 +1,5 @@
 ---
-bg: "photo02.jpg"
+bg: "photo002.jpg"
 layout: post
 title: "Ubuntu搭建深度学习环境"
 crawlertitle: Ubuntu搭建深度学习环境 #"page title"
@@ -19,16 +19,16 @@ categories: "tech"
 * Memory: 32GiB
 
 
-- [一、安装显卡驱动](#%e4%b8%80%e5%ae%89%e8%a3%85%e6%98%be%e5%8d%a1%e9%a9%b1%e5%8a%a8)
-    - [1. 添加Graphic Drivers PPA](#1-%e6%b7%bb%e5%8a%a0graphic-drivers-ppa)
-    - [2. 安装驱动](#2-%e5%ae%89%e8%a3%85%e9%a9%b1%e5%8a%a8)
-- [二、安装Anaconda](#%e4%ba%8c%e5%ae%89%e8%a3%85anaconda)
-    - [1. 下载Ananconda](#1-%e4%b8%8b%e8%bd%bdananconda)
-    - [2. 创建虚拟环境](#2-%e5%88%9b%e5%bb%ba%e8%99%9a%e6%8b%9f%e7%8e%af%e5%a2%83)
-    - [3. 配置深度学习环境](#3-%e9%85%8d%e7%bd%ae%e6%b7%b1%e5%ba%a6%e5%ad%a6%e4%b9%a0%e7%8e%af%e5%a2%83)
-    - [4. 停用 anaconda](#4-%e5%81%9c%e7%94%a8-anaconda)
-    - [5. 卸载 anaconda](#5-%e5%8d%b8%e8%bd%bd-anaconda)
-- [三、IDE](#%e4%b8%89ide)
+- [一、安装显卡驱动](#一安装显卡驱动)
+    - [1. 添加Graphic Drivers PPA](#1-添加graphic-drivers-ppa)
+    - [2. 安装驱动](#2-安装驱动)
+- [二、安装Anaconda](#二安装anaconda)
+    - [1.  下载Ananconda](#1--下载ananconda)
+    - [2. 创建虚拟环境](#2-创建虚拟环境)
+    - [3. 配置深度学习环境](#3-配置深度学习环境)
+    - [4. 停用 anaconda](#4-停用-anaconda)
+    - [5. 卸载 anaconda](#5-卸载-anaconda)
+- [三、IDE](#三ide)
 
 
 # 一、安装显卡驱动

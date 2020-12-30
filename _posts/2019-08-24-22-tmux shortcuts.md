@@ -1,5 +1,5 @@
 ---
-bg: "photo22.jpg"
+bg: "photo022.jpg"
 layout: post
 title: "tmux 快捷键"
 crawlertitle: tmux 快捷键

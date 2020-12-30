@@ -1,5 +1,5 @@
 ---
-bg: "photo34.jpg"
+bg: "photo034.jpg"
 layout: post
 title: "Cross View Fusion for 3D HPE"
 crawlertitle: "Cross View Fusion"

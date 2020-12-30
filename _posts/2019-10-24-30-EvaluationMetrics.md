@@ -1,5 +1,5 @@
 ---
-bg: "photo30.jpg"
+bg: "photo030.jpg"
 layout: post
 title: "Common Evaluation Metrics for HPE"
 crawlertitle: "Evaluation Metrics for HPE"
