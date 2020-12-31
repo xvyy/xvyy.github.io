@@ -23,8 +23,11 @@ author: "vpromise"
 > - [Git Study Notes Blog](https://vpromise.github.io/study/50-git/)
 >> 20201214 - 20201228
 
+
 ### shell脚本
 > - [阮一峰 Bash 脚本教程](https://wangdoc.com/bash/intro.html)
+
+
 ### 正则表达式
 
 ### 双拼输入法
@@ -33,6 +36,7 @@ author: "vpromise"
 > - [鳥哥的 Linux 私房菜 第九章 vim 程式編輯器](http://linux.vbird.org/linux_basic/0310vi.php)
 > - [openvim](https://www.openvim.com/tutorial.html)
 >> 20201229
+
 ### 统计学习方法
   - [ ] 第一章(201909)
   - [ ] 第二章
