@@ -23,3 +23,8 @@ categories: "study"
 
 ## DNN CNN RNN LSTM
 - [DNN CNN RNN LSTM](https://www.zhihu.com/question/34681168)
+
+## Transformer
+- [Transformer](https://zhuanlan.zhihu.com/p/308301901)
+- [Blog of 李宏毅 Transformer](https://hackmd.io/@shaoeChen/rJlRfP7mL)
+- [李宏毅 Transformer Tutorial](https://www.youtube.com/watch?v=ugWDIIOHtPA)
