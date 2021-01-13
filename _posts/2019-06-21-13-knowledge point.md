@@ -32,6 +32,11 @@ categories: "study"
 ## Semi-supervised Learning
 - [半监督学习](https://www.cnblogs.com/wuliytTaotao/p/12825797.html)
 
+## Capsule Network
+- [Paper](https://arxiv.org/pdf/1710.09829.pdf )
+- [Blog: Capsule Network](https://www.cnblogs.com/wangxiaocvpr/p/7884454.html)
+- [李宏毅 Video Tutorial](www.youtube.com/watch?v=UhGWH3hb3Hk)
+
 ## Share weights on convs with different dilation rate
 ```python
 # define self.conv3x3
