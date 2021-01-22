@@ -23,3 +23,25 @@ categories: "study"
 
 ## DNN CNN RNN LSTM
 - [DNN CNN RNN LSTM](https://www.zhihu.com/question/34681168)
+
+## Transformer
+- [Transformer](https://zhuanlan.zhihu.com/p/308301901)
+- [Blog of 李宏毅 Transformer](https://hackmd.io/@shaoeChen/rJlRfP7mL)
+- [李宏毅 Transformer Tutorial](https://www.youtube.com/watch?v=ugWDIIOHtPA)
+
+## Semi-supervised Learning
+- [半监督学习](https://www.cnblogs.com/wuliytTaotao/p/12825797.html)
+
+## Capsule Network
+- [Paper](https://arxiv.org/pdf/1710.09829.pdf )
+- [Blog: Capsule Network](https://www.cnblogs.com/wangxiaocvpr/p/7884454.html)
+- [李宏毅 Video Tutorial](www.youtube.com/watch?v=UhGWH3hb3Hk)
+
+## Share weights on convs with different dilation rate
+```python
+# define self.conv3x3
+branches_1=F.conv2d(x,self.conv3x3.weight,padding=2,dilation=2)#share weight
+branches_2=self.bn[1](branches_1)
+branches_3=F.conv2d(x,self.conv3x3.weight,padding=4,dilation=4)#share weight
+branches_4=self.bn[2](branches_3)
+```

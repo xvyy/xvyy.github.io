@@ -28,7 +28,7 @@ active: about
 - [团队主页](http://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)
 
 - @ `vpromisever@gmail.com`
-  
+
 - @ `vpromise@std.uestc.edu.cn`
 
 <br/>
