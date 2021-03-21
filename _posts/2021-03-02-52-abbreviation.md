@@ -1,13 +1,13 @@
 ---
-bg: "photo052.jpg"
+bg: photo052.jpg
 layout: post
-title: "Abbreviation of Journal and Conference"
+title: Abbreviation of Journal and Conference
 crawlertitle: Abbreviation
 summary: Abbreviation
 date: 2021-03-01 11:00:00 +0800
-categories: "paper"
-tags : 'abbreviation'
-author: "vpromise"
+categories: paper
+tags : abbreviation
+author: vpromise
 ---
 
 *期刊和会议论文引用时缩写*
