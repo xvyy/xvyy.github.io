@@ -1,13 +1,13 @@
 ---
-bg: "photo035.jpg"
+bg: photo035.jpg
 layout: post
-title: "一些有趣内容汇总"
-crawlertitle: "useful blog or post"
-summary: "useful blog or post"
+title: 一些有趣内容汇总
+crawlertitle: useful blog or post
+summary: useful blog or post
 date: 2019-12-04 16:00:00 +0800
-categories: "knowledge"
-tags: "blog"
-author: "vpromise"
+categories: study
+tags: blog
+author: vpromise
 ---
 
 *记录一些有趣或有用的内容*

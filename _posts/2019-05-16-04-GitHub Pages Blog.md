@@ -1,13 +1,13 @@
 ---
 layout: post
-bg: 'photo004.jpg'
-title: "GitHub Pages 搭建个人博客"
-crawlertitle: "GitHub Pages Blog"
-summary: "GitHub Pages Blog"
+bg: photo004.jpg
+title: GitHub Pages 搭建个人博客
+crawlertitle: GitHub Pages Blog
+summary: GitHub Pages Blog
 date: 2019-05-16 20:05:00 +0800
-tags : "blog"
-categories: "tech"
-author: "vpromise"
+tags : blog
+categories: tech
+author: vpromise
 ---
 
 *介绍如何利用GitHub Pages来搭建个人的博客，美观且免费*

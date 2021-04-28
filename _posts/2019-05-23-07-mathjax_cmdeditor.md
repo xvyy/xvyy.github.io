@@ -1,13 +1,13 @@
 ---
-bg: "photo007.jpg"
+bg: photo007.jpg
 layout: post
-title: "Markdown公式教程"
-crawlertitle: Markdown公式教程 #"page title"
-summary: Markdown公式教程 #"post description"
+title: Markdown公式教程
+crawlertitle: Markdown公式教程
+summary: Markdown公式教程
 date: 2019-05-23 18:00:00 +0800
-tags : 'markdown'
-author: "Cmd Markdown"
-categories: "tech"
+tags : markdown
+author: Cmd Markdown
+categories: tech
 ---
 
 *介绍markdown公式编辑语法*

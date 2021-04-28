@@ -1,13 +1,13 @@
 ---
-bg: "photo027.jpg"
+bg: photo027.jpg
 layout: post
-title: "Related Parts Help HPE"
+title: Related Parts Help HPE
 crawlertitle: PBN for HPE
 summary: Learning Specific Features for Related Parts Help HPE
 date: 2019-09-04 16:00:00 +0800
-categories: "paper"
-tags: "HPE"
-author: "vpromise"
+categories: paper
+tags: HPE
+author: vpromise
 ---
 
 *Paper Reading: Does Learning Specific Features for Related Parts Help Human Pose Estimation?*

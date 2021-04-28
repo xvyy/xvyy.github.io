@@ -1,13 +1,13 @@
 ---
-bg: "photo033.jpg"
+bg: photo033.jpg
 layout: post
-title: "替换NumPy数组中大于某个值的所有元素"
-crawlertitle: "python numpy"
-summary: "Python替换NumPy数组中大于某个值的所有元素"
+title: 替换NumPy数组中大于某个值的所有元素
+crawlertitle: python numpy
+summary: Python替换NumPy数组中大于某个值的所有元素
 date: 2019-11-20 16:00:00 +0800
-categories: "tech"
-tags: "python"
-author: "vpromise"
+categories: code
+tags: python
+author: vpromise
 ---
 
 *问题:Python替换NumPy数组中大于某个值的所有元素*

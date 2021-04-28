@@ -1,13 +1,13 @@
 ---
-bg: "photo013.jpg"
+bg: photo013.jpg
 layout: post
-title: "知识点"
-crawlertitle: 各种知识点记录 #"page title"
-summary: 各种知识点记录 #"post description"
+title: 知识点
+crawlertitle: 各种知识点记录
+summary: 各种知识点记录
 date: 2019-06-21 10:00:00 +0800
-tags : 'other'
-author: "vpromise"
-categories: "study"
+tags : other
+author: vpromise
+categories: study
 ---
 
 *各种知识点记录备忘* 

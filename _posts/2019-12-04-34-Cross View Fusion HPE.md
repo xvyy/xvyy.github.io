@@ -1,13 +1,13 @@
 ---
-bg: "photo034.jpg"
+bg: photo034.jpg
 layout: post
-title: "Cross View Fusion for 3D HPE"
-crawlertitle: "Cross View Fusion"
-summary: "Cross View Fusion for 3D HPE"
+title: Cross View Fusion for 3D HPE
+crawlertitle: Cross View Fusion
+summary: Cross View Fusion for 3D HPE
 date: 2019-12-04 15:00:00 +0800
-categories: "paper"
-tags: "HPE"
-author: "vpromise"
+categories: paper
+tags: HPE
+author: vpromise
 ---
 
 *this paper present an approach to recover absolute 3D humanposes from multi-view images by incorporating multi-view geometric  priors*

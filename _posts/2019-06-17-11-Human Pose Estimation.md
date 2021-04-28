@@ -1,13 +1,13 @@
 ---
-bg: "photo011.jpg"
+bg: photo011.jpg
 layout: post
-title: "Human Pose Estimation"
-crawlertitle: Human Pose Estimation #"page title"
-summary: Human Pose Estimation #"post description"
+title: Human Pose Estimation
+crawlertitle: Human Pose Estimation
+summary: Human Pose Estimation
 date: 2019-06-17 18:00:00 +0800
-tags : 'HPE'
-author: "cbsudux"
-categories: "paper"
+tags : HPE
+author: cbsudux
+categories: paper
 ---
 
 *A collection of resources on Human Pose Estimation.*

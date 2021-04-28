@@ -1,13 +1,13 @@
 ---
-bg: "photo022.jpg"
+bg: photo022.jpg
 layout: post
-title: "tmux 快捷键"
+title: tmux 快捷键
 crawlertitle: tmux 快捷键
 summary: tmux 快捷键
 date: 2019-08-24 16:00:00 +0800
-categories: "tech"
-tags: "linux"
-author: "vpromise"
+categories: tech
+tags: linux
+author: vpromise
 ---
 
 *介绍`tmus`的快捷键配置*

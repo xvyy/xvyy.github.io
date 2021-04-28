@@ -1,13 +1,13 @@
 ---
-bg: "photo002.jpg"
+bg: photo002.jpg
 layout: post
-title: "Ubuntu搭建深度学习环境"
-crawlertitle: Ubuntu搭建深度学习环境 #"page title"
-summary: 通过Anaconda搭建Ubuntu的深度学习环境 #"post description"
+title: Ubuntu搭建深度学习环境
+crawlertitle: Ubuntu搭建深度学习环境
+summary: 通过Anaconda搭建Ubuntu的深度学习环境
 date: 2019-02-22 17:00:00 +0800
-tags : 'linux'
-author: "vpromise"
-categories: "tech"
+tags : linux
+author: vpromise
+categories: tech
 ---
 
 *之前介绍了Ubuntu系统安装，现在进入主题，搭建深度学习环境，主要通过Anaconda*

@@ -1,20 +1,20 @@
 ---
-bg: "photo008.jpg"
+bg: photo008.jpg
 layout: post
-title: "相机标定"
-crawlertitle: Camera Calibration #"page title"
-summary: Camera Calibration #"post description"
+title: 相机标定
+crawlertitle: Camera Calibration
+summary: Camera Calibration
 date: 2019-05-28 14:00:00 +0800
-tags : 'camera'
-author: "vpromise"
-categories: "work"
+tags : camera
+author: vpromise
+categories: work
 ---
 
 *相机标定的方法，介绍世界坐标系、相机坐标系、成像平面坐标系和图像像素坐标系之间的转换关系*
 
 ---
 
-- [相机标定中矩阵的应用](#相机标定中矩阵的应用)
+- [相机标定中矩阵的应用]
   - [摘要](#摘要)
   - [第一章 坐标转换](#第一章-坐标转换)
     - [1.1 世界坐标系到相机坐标系](#11-世界坐标系到相机坐标系)
