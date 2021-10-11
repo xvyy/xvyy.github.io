@@ -12,6 +12,10 @@ active: about
 
 <center>一个无趣的人</center>
 
+<br/> interests: 
+&nbsp;&nbsp;&nbsp;&nbsp;human pose estimation, gait analysis, computer version, deep-learning 
+&nbsp;&nbsp;&nbsp;&nbsp;Android, basketball, sneakers ... 
+
 <br/>
 
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff)
@@ -27,9 +31,12 @@ active: about
 
 - [团队主页](http://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)
 
+
 - @ `vpromisever@gmail.com`
 
 - @ `vpromise@std.uestc.edu.cn`
+
+- @ `vpromise@mail.ustc.edu.cn`
 
 <br/>
 
