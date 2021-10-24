@@ -2,7 +2,7 @@
 bg: "tags.jpg"
 layout: page
 permalink: /tags/
-title: "Tags"
+title: "Tag"
 crawlertitle: "All Articles"
 summary: "Articles Tags"
 active: tag

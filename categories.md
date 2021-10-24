@@ -2,7 +2,7 @@
 bg: "cate.jpg"
 layout: page
 permalink: /categories/
-title: "Categories"
+title: "Categorie"
 crawlertitle: "Articles Categories"
 summary: "Articles Categories"
 active: categories

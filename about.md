@@ -13,8 +13,7 @@ active: about
 <center>一个无趣的人</center>
 
 <br/> interests: 
-&nbsp;&nbsp;&nbsp;&nbsp;human pose estimation, gait analysis, computer version, deep-learning 
-&nbsp;&nbsp;&nbsp;&nbsp;Android, basketball, sneakers ... 
+human pose estimation, gait analysis, computer version, deep-learning ... android, basketball, sneakers ... 
 
 <br/>
 
