@@ -1,9 +1,9 @@
 ---
 bg: "tags.jpg"
 layout: page
-permalink: /tags/
+permalink: /posts/
 title: "Tags"
-crawlertitle: "Articles Tags"
+crawlertitle: "All Articles"
 summary: "Articles Tags"
 active: tag
 ---

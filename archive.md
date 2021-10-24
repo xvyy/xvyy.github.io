@@ -3,8 +3,8 @@ bg: "tags.jpg"
 layout: page
 permalink: /posts/
 title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts Tages"
+crawlertitle: "All Articles"
+summary: "Articles Categories"
 active: archive
 ---
 
