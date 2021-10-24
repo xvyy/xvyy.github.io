@@ -1,7 +1,7 @@
 ---
 bg: "cate.jpg"
 layout: page
-permalink: /posts/
+permalink: /categories/
 title: "Categories"
 crawlertitle: "Articles Categories"
 summary: "Articles Categories"
