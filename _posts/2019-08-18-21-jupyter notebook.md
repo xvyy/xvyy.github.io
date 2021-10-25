@@ -5,7 +5,7 @@ title: jupyter notebook 快捷键
 crawlertitle: jupyter notebook 快捷键
 summary: jupyter notebook 快捷键
 date: 2019-08-18 16:00:00 +0800
-categories: tech
+categories: technology
 tags: jupyter
 author: vpromise
 ---

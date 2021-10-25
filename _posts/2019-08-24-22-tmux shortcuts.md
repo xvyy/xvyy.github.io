@@ -5,7 +5,7 @@ title: tmux 快捷键
 crawlertitle: tmux 快捷键
 summary: tmux 快捷键
 date: 2019-08-24 16:00:00 +0800
-categories: tech
+categories: technology
 tags: linux
 author: vpromise
 ---

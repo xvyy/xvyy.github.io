@@ -1,13 +1,13 @@
 ---
 bg: photo011.jpg
 layout: post
-title: Human Pose Estimation
-crawlertitle: Human Pose Estimation
-summary: Human Pose Estimation
+title: Awesome Human Pose Estimation
+crawlertitle: Awesome Human Pose Estimation
+summary: Awesome Human Pose Estimation Resources
 date: 2019-06-17 18:00:00 +0800
+categories: academic
 tags : HPE
 author: cbsudux
-categories: paper
 ---
 
 *A collection of resources on Human Pose Estimation.*

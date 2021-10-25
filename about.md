@@ -13,11 +13,14 @@ active: about
 <center>一个无趣的人</center>
 
 <br/> interests: 
-human pose estimation, gait analysis, computer version, deep-learning ... android, basketball, sneakers ... 
+
+human pose estimation, gait analysis, computer version, deep-learning ... 
+
+android, basketball, sneakers ... 
 
 <br/>
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff)
+<!-- ![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff) -->
 
 <!-- <br/>
 <center>Just keep making magic!</center> -->

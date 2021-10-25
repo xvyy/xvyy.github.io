@@ -5,8 +5,8 @@ title: 学习计划
 crawlertitle: 学习计划
 summary: 学习计划
 date: 2019-07-06 19:00:00 +0800
-categories: study
-tags: other
+categories: technology
+tags: coding
 author: vpromise
 ---
 

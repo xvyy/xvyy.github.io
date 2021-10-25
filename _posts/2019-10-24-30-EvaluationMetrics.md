@@ -5,7 +5,7 @@ title: Common Evaluation Metrics for HPE
 crawlertitle: Evaluation Metrics for HPE
 summary: Common Evaluation Metrics for Human Pose Estimation
 date: 2019-10-24 10:00:00 +0800
-categories: paper
+categories: academic
 tags: HPE
 author: vpromise
 ---

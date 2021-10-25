@@ -5,7 +5,7 @@ title: Abbreviation of Journal and Conference
 crawlertitle: Abbreviation
 summary: Abbreviation
 date: 2021-03-01 11:00:00 +0800
-categories: paper
+categories: academic
 tags : abbreviation
 author: vpromise
 ---

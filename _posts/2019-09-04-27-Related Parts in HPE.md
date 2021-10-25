@@ -5,7 +5,7 @@ title: Related Parts Help HPE
 crawlertitle: PBN for HPE
 summary: Learning Specific Features for Related Parts Help HPE
 date: 2019-09-04 16:00:00 +0800
-categories: paper
+categories: academic
 tags: HPE
 author: vpromise
 ---

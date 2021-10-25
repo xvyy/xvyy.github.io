@@ -5,7 +5,7 @@ title: 一些有趣内容汇总
 crawlertitle: useful blog or post
 summary: useful blog or post
 date: 2019-12-04 16:00:00 +0800
-categories: study
+categories: technology
 tags: blog
 author: vpromise
 ---

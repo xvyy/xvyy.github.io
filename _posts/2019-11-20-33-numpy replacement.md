@@ -5,7 +5,7 @@ title: 替换NumPy数组中大于某个值的所有元素
 crawlertitle: python numpy
 summary: Python替换NumPy数组中大于某个值的所有元素
 date: 2019-11-20 16:00:00 +0800
-categories: code
+categories: technology
 tags: python
 author: vpromise
 ---

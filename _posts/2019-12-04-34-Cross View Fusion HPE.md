@@ -5,7 +5,7 @@ title: Cross View Fusion for 3D HPE
 crawlertitle: Cross View Fusion
 summary: Cross View Fusion for 3D HPE
 date: 2019-12-04 15:00:00 +0800
-categories: paper
+categories: academic
 tags: HPE
 author: vpromise
 ---

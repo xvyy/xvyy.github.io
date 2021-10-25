@@ -3,10 +3,10 @@ layout: post
 bg: photo004.jpg
 title: GitHub Pages
 crawlertitle: GitHub Pages Blog
-summary: GitHub Pages Blog
+summary: Build Personal Blog by GitHub Pages
 date: 2019-05-16 20:05:00 +0800
-tags : blog
-categories: tech
+tags : blog github
+categories: technology
 author: vpromise
 ---
 

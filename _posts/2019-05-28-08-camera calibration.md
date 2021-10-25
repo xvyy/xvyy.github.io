@@ -5,9 +5,9 @@ title: 相机标定
 crawlertitle: Camera Calibration
 summary: Camera Calibration
 date: 2019-05-28 14:00:00 +0800
-tags : camera
+tags : camera-calibration
 author: vpromise
-categories: work
+categories: academic
 ---
 
 *相机标定的方法介绍，作为研究生阶段遇到的第一个数据处理任务，后来也作为矩阵理论的课程作业项目，本文将介绍相机标定中的世界坐标系、相机坐标系、成像平面坐标系和图像像素坐标系之间的转换关系*

@@ -1,13 +1,13 @@
 ---
 bg: photo013.jpg
 layout: post
-title: 知识点
-crawlertitle: 各种知识点记录
-summary: 各种知识点记录
+title: 知识点记录
+crawlertitle: 知识点记录
+summary: 各种重要知识点记录，包括数学、深度学习及其他
 date: 2019-06-21 10:00:00 +0800
-tags : other
+tags : math
 author: vpromise
-categories: study
+categories: academic
 ---
 
 *各种知识点记录备忘* 
