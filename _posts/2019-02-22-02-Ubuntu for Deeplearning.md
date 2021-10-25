@@ -6,7 +6,7 @@ crawlertitle: Ubuntu搭建深度学习环境
 summary: 通过Anaconda搭建Ubuntu的深度学习环境
 date: 2019-02-22 17:00:00 +0800
 categories: technology
-tags : ubuntu, anaconda
+tags : ubuntu anaconda
 author: vpromise
 ---
 
