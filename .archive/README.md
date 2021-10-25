@@ -1,7 +1,9 @@
 # [vpromise's blog](https://vpromise.github.io)
 <https://vpromise.github.io/>
+<https://vpromise.xyz>
 
-thanks to [Voyager](https://github.com/redVi/voyager)
+Thanks to [Voyager](https://github.com/redVi/voyager)
+Demo: <http://redvi.github.io/voyager>
 
 edit by [vpromise](https://github.com/vpromise)
 
@@ -19,7 +21,7 @@ All post settings can be changed. Example:
 ```
 ---
 layout: post
-bg: 'photo01-77.jpg'
+bg: 'photo***.jpg'
 title: "Post Heading"
 crawlertitle: "page title"
 summary: "post description"
@@ -47,4 +49,31 @@ active: about
 ```
 Archive page is sorting posts by tags. No more than one tag in one post.
 
+Good:
+
+```
+tags : ['front-end']
+```
+
+Bad:
+
+```
+tags : ['front-end', 'jekyll']
+```
+
+Don't forget to change `_config.yml`.
+
+**Relative paths**
+
+If your blog is not in the root directory, you can include images with a relative path. For example:
+
+```
+![my_image]({{ site.images | relative_url }}/image.jpg)
+```
+
+## Production environment
+
+Build for production:
+
+`JEKYLL_ENV=production jekyll build`
 

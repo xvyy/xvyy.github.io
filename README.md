@@ -1,6 +1,14 @@
-## Voyager
+# [vpromise's blog](https://vpromise.github.io)
+<https://vpromise.github.io/>
+<https://vpromise.xyz>
 
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+Thanks to [Voyager](https://github.com/redVi/voyager)
+Demo: <http://redvi.github.io/voyager>
+
+edit by [vpromise](https://github.com/vpromise)
+
+![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff)
+
 
 ### Feathures:
 
@@ -13,15 +21,15 @@ All post settings can be changed. Example:
 ```
 ---
 layout: post
-bg: '2016/background.jpg'
+bg: 'photo***.jpg'
 title: "Post Heading"
 crawlertitle: "page title"
 summary: "post description"
-date: 2016-06-29
-tags : ['front-end']
+date: 2019-06-29 00:00:00 +08000
+tags : "Ubuntu deep-learning markdown ..."
 slug: post-url
-author: "Author"
-categories: posts
+categories: "tech life paper code knoeledge ..."
+author: "vpromise"
 ---
 ```
 
@@ -39,9 +47,6 @@ permalink: /about/
 active: about
 ---
 ```
-
-**Archive**
-
 Archive page is sorting posts by tags. No more than one tag in one post.
 
 Good:
