@@ -26,14 +26,17 @@ title: "Post Heading"
 crawlertitle: "page title"
 summary: "post description"
 date: 2019-06-29 00:00:00 +08000
-tags : "Ubuntu deep-learning markdown ..."
 slug: post-url
 categories: "tech life paper code knoeledge ..."
+tags : "Ubuntu deep-learning markdown ..."
 author: "vpromise"
 ---
 ```
 
 `bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
+
+categories: "technology academic life others"
+tags : "any detailed tags: ubuntu, ssh, samba ..."
 
 **Page**
 

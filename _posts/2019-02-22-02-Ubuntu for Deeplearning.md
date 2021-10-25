@@ -10,7 +10,7 @@ author: vpromise
 categories: tech
 ---
 
-*之前介绍了Ubuntu系统安装，现在进入主题，搭建深度学习环境，主要通过Anaconda*
+*前一篇博客介绍了Ubuntu系统安装，系统只是一个载体，使用Linux系统主要还是为了方便Coding，现在进入主题，基于Ubuntu搭建深度学习环境，最方便的方法就是通过Anaconda来创建环境了*
 
 **基于Ubuntu搭建深度学习环境，我的机器配置如下：**
 * System：Ubuntu 18.04

@@ -10,7 +10,7 @@ author: Cmd Markdown
 categories: tech
 ---
 
-*介绍markdown公式编辑语法*
+*Markdown其实是我最喜欢的编程语言（不是），简单易用，可以得到美观的排版，本博客也是基于Markdown语言排版的，在此介绍一下markdown公式编辑语法*
 
 *转载于[Cmd Markdown](https://www.zybuluo.com/codeep/note/163962)*
 
