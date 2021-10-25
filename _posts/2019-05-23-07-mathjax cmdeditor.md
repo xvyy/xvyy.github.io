@@ -7,7 +7,7 @@ summary: Markdown公式语法教程，同Latex语法
 date: 2019-05-23 18:00:00 +0800
 tags : markdown
 author: Cmd Markdown
-categories: technoligy
+categories: technology
 ---
 
 *Markdown其实是我最喜欢的编程语言（不是），简单易用，可以得到美观的排版，本博客也是基于Markdown语言排版的，在此介绍一下markdown公式编辑语法*
