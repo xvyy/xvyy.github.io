@@ -5,9 +5,9 @@ title: Ubuntu搭建深度学习环境
 crawlertitle: Ubuntu搭建深度学习环境
 summary: 通过Anaconda搭建Ubuntu的深度学习环境
 date: 2019-02-22 17:00:00 +0800
-tags : linux
+categories: technology
+tags : ubuntu, anaconda
 author: vpromise
-categories: tech
 ---
 
 *前一篇博客介绍了Ubuntu系统安装，系统只是一个载体，使用Linux系统主要还是为了方便Coding，现在进入主题，基于Ubuntu搭建深度学习环境，最方便的方法就是通过Anaconda来创建环境了*
