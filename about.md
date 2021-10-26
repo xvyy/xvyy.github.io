@@ -8,7 +8,7 @@ summary: "一个无趣的人"
 active: about
 ---
 
-# <center>About me</center>
+# <center>About Me</center>
 
 <!-- <center>一个无趣的人</center> -->
 
