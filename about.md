@@ -27,6 +27,8 @@ android, basketball, sneakers ...
 
 <br/>
 
+真好笑！ :joy:
+
 - [GitHub](https://github.com/vpromise/)
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
@@ -35,10 +37,6 @@ android, basketball, sneakers ...
 
 
 - @ `vpromisever@gmail.com`
-
-- @ `vpromise@std.uestc.edu.cn`
-
-- @ `vpromise@mail.ustc.edu.cn`
 
 <br/>
 
