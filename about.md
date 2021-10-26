@@ -2,7 +2,7 @@
 bg: "about.jpg"
 layout: page
 title: "About"
-crawlertitle: "About me"
+crawlertitle: "About Me"
 permalink: /about/
 summary: "一个无趣的人"
 active: about
@@ -50,5 +50,5 @@ active: about
 
 ---
 
->Updated on 10-26-2021
+`Updated on 10-26-2021`
 
