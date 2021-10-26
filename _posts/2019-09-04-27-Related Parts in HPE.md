@@ -10,7 +10,7 @@ tags: HPE
 author: vpromise
 ---
 
-*Paper Reading: Does Learning Specific Features for Related Parts Help Human Pose Estimation?*
+*Paper Reading: Does Learning Specific Features for Related Parts Help Human Pose Estimation? 在人体姿态估计任务中通过学习相关部位的特定特征来提高人体姿态估计的精度。*
 
 ---
 

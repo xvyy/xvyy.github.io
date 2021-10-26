@@ -10,7 +10,7 @@ tags : HPE
 author: cbsudux
 ---
 
-*A collection of resources on Human Pose Estimation.*
+*A collection of some awesome resources on Human Pose Estimation, contains paapers, codes, blogs and so on*
 
 *转载于[**Awesome Human Pose Estimation**](https://github.com/cbsudux/awesome-human-pose-estimation)*
 

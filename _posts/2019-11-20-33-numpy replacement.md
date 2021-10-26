@@ -10,7 +10,7 @@ tags: python
 author: vpromise
 ---
 
-*问题:Python替换NumPy数组中大于某个值的所有元素*
+*问题:Python替换NumPy数组中大于某个值的所有元素，本文给出了几种思路*
 
 ---
 

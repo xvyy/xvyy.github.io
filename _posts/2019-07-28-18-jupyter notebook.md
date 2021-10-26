@@ -10,7 +10,7 @@ tags: jupyter
 author: vpromise
 ---
 
-*Jupyter Notebook的一些配置，包括主题和内核切换等高阶拓展*
+*Jupyter Notebook的一些配置，包括设置主题，切换内核环境以及高阶拓展的安装*
 
 ---
 

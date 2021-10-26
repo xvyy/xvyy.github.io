@@ -10,7 +10,7 @@ tags: linux
 author: vpromise
 ---
 
-*介绍`tmus`的快捷键配置*
+*介绍`tmus`的快捷键以及自定义快捷键配置*
 
 ---
 

@@ -10,7 +10,7 @@ author: vpromise
 categories: academic
 ---
 
-*各种知识点记录备忘* 
+*各种知识点记录备忘，包括各种知识点和学习资料，以及一些代码资源* 
 
 ---
 ## CRF
