@@ -8,7 +8,7 @@ summary: "Articles Categories"
 active: archive
 ---
 
-{% for year in site.year %}
+{% for year in site.years %}
   {% assign t = year | first %}
   {% assign posts = year | last %}
 
