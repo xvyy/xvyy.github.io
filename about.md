@@ -18,7 +18,7 @@ active: about
 
 - human pose estimation, gait analysis, computer vision, deep-learning ... 
 
-- android, basketball, sneakers ... 
+- android, basketball, sneakers, riding ... 
 
 <!-- <br/> -->
 <!-- ![My GitHub](https://github-readme-stats.vercel.app/api?username=vpromise&bg_color=00f2fe,00f2fe,4facfe&title_color=fff&text_color=fff) -->
@@ -44,11 +44,13 @@ active: about
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
 
-- Email @ <vpromisever@gmail.com>
+- Email: vpromiseverATgmailDOTcom
 
 <br/>
 
-    或许，我也是个网管
+## Others:
+
+- 或许，我也是个网管
 
 <br/>
 ---
