@@ -40,6 +40,8 @@ active: about
 
 ## Links:
 
+- [Wordpress Blog](http://blog.vpromise.fun)
+
 - [GitHub](https://github.com/vpromise/)
 
 - [简书](https://www.jianshu.com/u/cf0e68109e57)
