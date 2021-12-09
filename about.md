@@ -11,6 +11,8 @@ active: about
 # <center>About Me</center>
 
 <!-- <center>一个无趣的人</center> -->
+Attention：2021/12/01
+本站已停止更新，后续内容已迁移至[新博客](https://blog.vpromise.fun)
 
 <br/>
 
@@ -40,7 +42,7 @@ active: about
 
 ## Links:
 
-- [Wordpress Blog](http://blog.vpromise.fun)
+- [New Blog](http://blog.vpromise.fun)
 
 - [GitHub](https://github.com/vpromise/)
 
@@ -57,4 +59,4 @@ active: about
 <br/>
 ---
 
-`Updated on 10-26-2021`
+`Updated on 12-09-2021`
