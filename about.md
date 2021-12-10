@@ -57,10 +57,6 @@ Attention：2021/12/01
 - 或许，我也是个网管
 
 <br/>
-
-![Alt](https://repobeats.axiom.co/api/embed/afea5ef447aeba9a9cffa0734a60d9b26bf86531.svg "Repobeats analytics image")
-
-<br/>
 ---
 
 `Updated on 12-09-2021`
