@@ -1,5 +1,5 @@
-# [vpromise's blog](https://vpromise.github.io)
-<https://vpromise.github.io/>
+# [vpromise's blog](https://xvyy.github.io)
+<https://xvyy.github.io/>
 <https://vpromise.xyz>
 
 Thanks to [Voyager](https://github.com/redVi/voyager)
