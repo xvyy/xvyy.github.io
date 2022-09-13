@@ -2,7 +2,7 @@
 
 This Blog Site @ <https://xvyy.github.io/>
 
-New Blog Site @ <https://vpromise.xyz>
+New Blog Site @ <https://blog.vpromise.fun>
 
 Thanks to [Voyager](https://github.com/redVi/voyager)
 Demo: <http://redvi.github.io/voyager>
