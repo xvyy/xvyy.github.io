@@ -1,6 +1,8 @@
-# [vpromise's blog](https://vpromise.github.io)
-<https://vpromise.github.io/>
-<https://vpromise.xyz>
+# [vpromise's blog](https://xvyy.github.io)
+
+This is the old blog site: <https://xvyy.github.io/>
+
+New blog site: <https://blog.vpromise.fun>
 
 Thanks to [Voyager](https://github.com/redVi/voyager)
 Demo: <http://redvi.github.io/voyager>
